@@ -45,8 +45,8 @@ This language-guided approach allows the model to use its vast pre-trained knowl
 ## 🤖 Models Evaluated
 
 The following state-of-the-art, open-source VLMs were used:
-- **VideoLLaMA-3** (2B & 7B parameters)
-- **Qwen2.5-VL** (3B & 7B parameters)
+- [**VideoLLaMA-3**](https://github.com/DAMO-NLP-SG/VideoLLaMA3) (2B & 7B parameters)
+- [**Qwen2.5-VL**](https://github.com/QwenLM/Qwen3-VL) (3B & 7B parameters)
 
 
 ## 🔧 Installation
